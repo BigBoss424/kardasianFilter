@@ -1,0 +1,11 @@
+kardashian_filter.xpi:
+					/install.rdf
+					/chrome.manifest
+					/chrome/
+					/chrome/content/
+					/chrome/icons/default/*
+					/chrome/locale/
+					/defaults/preferences/*.js
+					/plugins/*
+					/components/*
+					/components/cmdline.js
